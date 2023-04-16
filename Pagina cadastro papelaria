@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <style>
+        body {
+            background-image: url(imagens/fundo\ rosa\ degrade.jpg);
+             background-size: cover;
+             }
+        </style>
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Faça seu cadastro</title>
+</head>
+<body>
+    <center>
+        <img src="imagens/Banner para Docs atendimento online moderno verde (1).jpg" alt="cabeçalho" height="200px;" width: "500px;">
+        </center> 
+<main>Faça seu Cadastro</main><br>
+
+
+<form>
+<label for="Nome"></label>
+<span> Nome</span>
+<input type="tex"> <br>
+
+<label for="Data de Nascimento"></label>
+<span> Data de Nascimento</span>
+<input type="tex"> <br>
+
+<label for="E-mail"></label>
+<span> E-mail</span>
+<input type="tex"> <br>
+
+<label for="Endereço"></label>
+<span> Endereço</span>
+<input type="tex"> <br>
+
+<label for="Estado"></label>
+<span> Estado</span>
+<select>
+<option value="AC">AC</option>
+<option value="AL">AL</option>
+<option value="AP">AP</option>
+<option value="AM">AM</option>
+<option value="BA">BA</option>
+<option value="CE">CE</option>
+<option value="DF">DF</option>
+<option value="ES">ES</option>
+<option value="GO">GO</option>
+<option value="MA">MA</option>
+<option value="MT">MT</option>
+<option value="MS">MS</option>
+<option value="MG">MG</option>
+<option value="PA">PA</option>
+<option value="PB">PB</option>
+<option value="PR">PR</option>
+<option value="PE">PE</option>
+<option value="PI">PI</option>
+<option value="RJ">RJ</option>
+<option value="RN">RN</option>
+<option value="RS">RS</option>
+<option value="RO">RO</option>
+<option value="RR">RR</option>
+<option value="SC">SC</option>
+<option value="SP">SP</option>
+<option value="SE">SE</option>
+<option value="TO">TO</option>
+</select> <br>
+
+<label for="CPF"></label>
+<span> CPF</span>
+<input type="tex"> <br>
+
+<label for="Senha">Senha (Mínimo 8 caracteres):</label>
+    <input type="Senha" id="pass" name="password"
+           minlength="8" required>
+
+           <input type="submit" value="Sign in">
+</form>
+
+
+    <P>Voltar para <a href="Papelaria Mamako.html" target="_self" 
+        rel="prev"> Home </a></P>  
+</body>
+</html>
