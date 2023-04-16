@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Filmes Favoritos de Ludmilla </title>
+<meta charset="utf-8">
+<style>
+body{background-color: hsl(53, 74%, 77%); }
+
+</style>
+</head>
+
+<body>
+
+    <center><h1>Filmes favoritos de Ludmilla</h1></center>
+<ol type="1">
+
+<li> <A href="#Valente">Valente</A> </li>
+<li> <A href="#Constantine">Constantine</A> </li>
+<li> <A href="#Superação">Superação</A> </li>
+<li> <A href="#Vingadores Ultimato">Vingadores Ultimato</A> </li>
+<li> <A href="#Invocação do mal">Invocação do mal</A> </li>
+
+
+</ol>
+
+<center>
+    <h1 id="Valente">Valente</h1>
+    <img src="../Área de Trabalho/imagens/valente.jpg" alt="Valente" style="height:800px">
+    <p>A princesa Merida deve seguir os costumes do seu reino e tomar-se rainha ao lado do cavalheiro que conseguir a sua mão durante um torneio de arco e flecha. Porém, a jovem está determinada a trilhar seu próprio caminho e desafia a tradição ancestral.</p>
+
+    <h2 id="Constantine">Constantine</h2>
+    <Img src="../Área de Trabalho/imagens/constantine.jpg" alt="Constantine" style="height:800px">
+       <p>Contos sobrenaturais baseados nas histórias em quadrinhos "Hellblazer". O solitário Constantine tenta garantir seu lugar no paraíso enviando demônios de volta ao inferno, mas seu destino está ligado ao de Angela, uma policial que investiga o suposto suicídio de sua irmã gêmea.</p>
+
+    <h3 id="Superação">Superação</h3>
+   <Img src="../Área de Trabalho/imagens/superação.jpg" alt="Superação" style="height:800px">
+    <p>Durante um passeio com a família em uma manhã de inverno no Lago St Louis, no Missouri, o menino John Smith, de apenas 14 anos, sofre uma queda e se afoga por mais de 15 minutos. Chegando ao hospital, John é considerado morto por mais de uma hora até que sua mãe, Joyce Smith, ao lado do pai e de um pastor, junta todas as suas forças e pede a Deus para que seu filho sobreviva. Sua prece poderosa é responsável por um milagre inédito.</p>
+
+    <h4 id="Vingadores Ultimato">Vingadores ultimato</h4>
+    <Img src="../Área de Trabalho/imagens/vingadores ultimato.jpg" alt="Vingadores" style="height:800px">
+    <p>Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.</p>
+
+    <h5 id="Invocação do mal">Invocação do mal</h5>
+    <Img src="../Área de Trabalho/imagens/invocação do mal.jpg" alt="Invocação do mal" style="height:800px">
+    <p>Os mundialmente renomados investigadores paranormais Ed e Lorraine Warren são chamados para ajudar uma família aterrorizada por uma presença obscura em uma fazenda isolada. Forçados a confrontar uma poderosa entidade demoníaca, se veem presos no caso mais terrível de suas vidas.</p>
+
+    <p style= "font-size: small;"><b>Ludmilla de Souza</b></p>
+<a href="https://www.linkedin.com/in/ludmilla-de-souza-721861169/" >
+<img src="../Área de Trabalho/imagens/logo-linkedin-icon-4096.png" alt="linkedin" style="height: 15px;"
+/a>
+
+</body>
+</html>
